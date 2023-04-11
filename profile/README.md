@@ -27,7 +27,7 @@ consume and to publish data.</p>
 <th><g-emoji class="g-emoji" alias="dart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3af.png">🎯</g-emoji> <a href="https://github.com/smart-data-models/data-models/blob/master/roadmap.md">Roadmap</a></th>
 <th><g-emoji class="g-emoji" alias="closed_book" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d5.png">📕</g-emoji> <a href="https://github.com/smart-data-models/data-models/blob/master/MANIFESTO.md">Manifesto</a></th>
 <th><g-emoji class="g-emoji" alias="inbox_tray" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e5.png">📥</g-emoji> <a href="mailto:info@smartdatamodels.org">eMail</a></th>
-<th><g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji> <a href="http://smartdatamodels.org/index.php/submit-an-issue-2/" rel="nofollow">Contact Us</a></th>
+<th><g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji> <a href="https://smartdatamodels.org/index.php/submit-an-issue-2/" rel="nofollow">Contact Us</a></th>
 </tr>
 </thead>
 </table>
