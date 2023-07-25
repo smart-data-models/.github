@@ -18,7 +18,7 @@ innovation and procurement.</p>
 
 <p>Data Models play a crucial role because they define the <strong>harmonised
 representation formats and semantics</strong> that will be used by applications both to
-consume and to publish data.</p>
+consume and to publish data. The <a href="https://bit.ly/contribution_manual">contribution manual</a> is a good place to start</p> 
 
 <table>
 <thead>
