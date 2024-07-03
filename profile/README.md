@@ -18,7 +18,7 @@ innovation and procurement.</p>
 representation formats and semantics</strong> that will be used by applications both to
 consume and to publish data. The <a href="https://bit.ly/contribution_manual">contribution manual</a> is a good place to start</p> 
 
-The models are curated based on the principles of <a href="https://github.com/smart-data-models/data-models/blob/master/MANIFESTO.md">agile standardization</a>, that allows the creation of specifications in less than a week (data-model-in-a-week) provided that running examples and definitions are available. Data models are incorporated from two sources, mapping open data adopted standars (standards that allow their free use, free customization and free sharing of customizations) and real use cases. 
+The models are curated based on the principles of <a href="https://github.com/smart-data-models/data-models/blob/master/MANIFESTO.md">agile standardization</a>, that allows the creation of specifications in less than a week (data-model-in-a-week) provided that running examples and definitions are available. Data models are incorporated from two sources, mapping open and adopted standars (standards that allow their free use, free customization and free sharing of customizations) and real use cases. 
 
 <table>
 <thead>
