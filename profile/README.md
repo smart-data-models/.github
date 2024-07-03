@@ -1,18 +1,16 @@
 <img align="center" src="https://smartdatamodels.org/wp-content/uploads/2021/09/cropped-SmartDataModels_Website_Header.png"/>
 <p>
-  A joint collaboration program to support the adoption of a reference architecture and compatible common data models underpinning a digital 
+  A joint collaboration program to support the adoption of compatible common data models underpinning a digital 
   market of interoperable and replicable smart solutions.
 </p>
 
 <p dir="auto">The <strong>FIWARE Foundation</strong> <strong>IUDX</strong>, <strong>TM Forum</strong> and <strong>OASC</strong> and others, are leading
-a joint collaboration program to support the adoption of a reference architecture
-and compatible common data models that underpin a digital market of interoperable and
-replicable smart solutions in multiple sectors, starting with smart cities.</p>
+a joint collaboration program to support the adoption of compatible common data models that underpin a digital market of interoperable and
+replicable smart solutions in multiple sectors, including smart cities, energy, environment, logistics, robotics, logistics, health, smart destinations (tourism), aeronautics, manufacturing and others.</p>
 
 <p>The availability of widely adopted (de-facto standard) information models is key
 for creating a global digital single market of interoperable and replicable
-(portable) smart solutions in multiple domains (smart cities, smart agrifood,
-smart utilities, smart industry, …). Such models provide an essential
+(portable) smart solutions in multiple domains. Such models provide an essential
 element in the common technical ground needed for standards-based open
 innovation and procurement.</p>
 
